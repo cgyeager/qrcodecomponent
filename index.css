@@ -24,6 +24,14 @@ body {
   font-family: "Sofia", sans-serif;
 }
 
+/*
+body {
+  display: grid;
+  place-items: center;
+  min-height: 100vh;
+}
+*/
+
 .qrcode-wrapper {
   transform: translateY(0%);
   background-color: var(--white);
